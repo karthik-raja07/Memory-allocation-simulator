@@ -44,5 +44,5 @@ Each node represents a memory block with:
 
 ---
 
-## 🖥 Menu Options
+
 
